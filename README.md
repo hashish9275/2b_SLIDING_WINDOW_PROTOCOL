@@ -11,8 +11,8 @@ To write a python program to perform sliding window protocol
 6. Stop the Program
    
 ## PROGRAM:
-Developed by: K.R.Hashish Vidya Sagar
-Register Number: 212222230047
+## Developed by: K.R.Hashish Vidya Sagar
+## Register Number: 212222230047
 
 ## Client:
 ```
